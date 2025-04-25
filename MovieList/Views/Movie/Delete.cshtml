@@ -1,0 +1,19 @@
+﻿@model Movie
+@{
+    ViewData["Title"] = "Delete Movie";
+}
+
+<h2>Confirm Deletion</h2>
+<p>
+    <span>
+        @Model.Name
+        @Model.Year.ToString()
+        @* @Html.DisplayNameFor(model => model.Name)
+        @Html.DisplayNameFor(model => model.Year) *@
+    </span>
+</p>
+<form method="post" asp-action="Delete">
+    <input type="hidden" asp-for="MovieId" />
+    <input type="submit" value="Delete" class="btn btn-primary" />
+    <a asp-controller="Home" asp-action="Index" class="btn btn-outline-primary">Cancel</a>
+</form>

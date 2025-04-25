@@ -1,0 +1,20 @@
+﻿@model Movie
+@{
+    ViewBag.Title = "Edit";
+}
+<h2>Edit movie details</h2>
+
+<form asp-action="Add" method="post">
+ @*    <input type="hidden" asp-for="MovieId"/>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div> *@
+
+    <partial name="_MovieDetails" model="@Model"/>
+
+
+    <div class="mb-3">
+        <input type="submit" class="btn btn-primary" value="Save Changes"/>
+        <a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+
+    </div>
+
+</form>

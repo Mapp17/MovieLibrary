@@ -1,0 +1,9 @@
+#Ignore all the migration files
+20240301152827_Intial.cs 
+20240301152827_Intial.Designer.cs
+20240301155239_SeedData.cs
+20240301155239_SeedData.Designer.cs 
+20240304122348_seedAdded.cs 
+20240304122348_seedAdded.Designer.cs 
+20240401192308_addGenre.Designer.cs 
+AppDbContextModelSnapshot.cs

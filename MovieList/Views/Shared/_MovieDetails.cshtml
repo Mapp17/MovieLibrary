@@ -1,0 +1,27 @@
+﻿@model Movie
+
+<div class="mb-3">
+    <label asp-for="Name" class="form-label"></label>
+    <input asp-for="Name" type="text" class="form-control" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+
+<div class="mb-3">
+    <label asp-for="Year" class="form-label"></label>
+    <input asp-for="Year" type="text" class="form-control" />
+    <span asp-validation-for="Year" class="text-danger"></span>
+</div>
+
+<div class="mb-3">
+    <label asp-for="Rating" class="form-label"></label>
+    <input asp-for="Rating" class="form-control" />
+    <span asp-validation-for="Rating" class="text-danger"></span>
+</div>
+
+<div class="mb-3">
+    <label asp-for="GenreId" class="form-label"></label>
+    <select asp-for="GenreId"  asp-items="ViewBag.Genres" class="form-select">
+        <option value="">-----Select Genre-----</option>
+
+    </select>
+</div>

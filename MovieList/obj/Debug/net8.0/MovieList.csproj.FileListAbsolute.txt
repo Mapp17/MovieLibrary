@@ -1,0 +1,434 @@
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\appsettings.Development.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\appsettings.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\libman.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\MovieList.staticwebassets.runtime.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\MovieList.exe
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\MovieList.deps.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\MovieList.runtimeconfig.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\MovieList.dll
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\bin\Debug\net8.0\MovieList.pdb
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfoInputs.cache
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfo.cs
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.csproj.CoreCompileInputs.cache
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.MvcApplicationPartsAssemblyInfo.cache
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cache
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cs
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.MovieList.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.build.MovieList.props
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieList.props
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieList.props
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\scopedcss\bundle\MovieList.styles.css
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.dll
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\refint\MovieList.dll
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.pdb
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\MovieList.genruntimeconfig.cache
+C:\CSIS3734\Unit2\Class Activities\MovieList\MovieList\obj\Debug\net8.0\ref\MovieList.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfoInputs.cache
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfo.cs
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.csproj.CoreCompileInputs.cache
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.MvcApplicationPartsAssemblyInfo.cache
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cache
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cs
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\refint\MovieList.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.pdb
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\appsettings.Development.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\appsettings.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\libman.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\MovieList.staticwebassets.runtime.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\MovieList.exe
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\MovieList.deps.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\MovieList.runtimeconfig.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\MovieList.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\MovieList.pdb
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\staticwebassets.build.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\staticwebassets.development.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.MovieList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.build.MovieList.props
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieList.props
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieList.props
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\scopedcss\bundle\MovieList.styles.css
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.genruntimeconfig.cache
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\ref\MovieList.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Azure.Core.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Azure.Identity.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Humanizer.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.CodeDom.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.csproj.AssemblyReference.cache
+D:\Class Activities\Activity2_Surname_Initials\MovieList\obj\Debug\net8.0\MovieList.csproj.CopyComplete
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.csproj.AssemblyReference.cache
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfoInputs.cache
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfo.cs
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.csproj.CoreCompileInputs.cache
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.MvcApplicationPartsAssemblyInfo.cache
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cache
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cs
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.dll
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\refint\MovieList.dll
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.pdb
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\appsettings.Development.json
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\appsettings.json
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\libman.json
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.staticwebassets.runtime.json
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.exe
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.deps.json
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.runtimeconfig.json
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.pdb
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Azure.Core.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Azure.Identity.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Humanizer.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.CodeDom.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets.build.json
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets.development.json
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.MovieList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.build.MovieList.props
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieList.props
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieList.props
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\scopedcss\bundle\MovieList.styles.css
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.csproj.CopyComplete
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.genruntimeconfig.cache
+D:\Class Activities\Movie\MovieList\obj\Debug\net8.0\ref\MovieList.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.csproj.AssemblyReference.cache
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfoInputs.cache
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.AssemblyInfo.cs
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.csproj.CoreCompileInputs.cache
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.MvcApplicationPartsAssemblyInfo.cache
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cache
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.RazorAssemblyInfo.cs
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\refint\MovieList.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.pdb
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\appsettings.Development.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\libman.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\appsettings.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.staticwebassets.runtime.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.exe
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.deps.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.runtimeconfig.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\MovieList.pdb
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Azure.Core.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Azure.Identity.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Humanizer.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.CodeDom.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets.build.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets.development.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.MovieList.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.build.MovieList.props
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MovieList.props
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MovieList.props
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\scopedcss\bundle\MovieList.styles.css
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.csproj.CopyComplete
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\MovieList.genruntimeconfig.cache
+D:\Resources for Tests\Class Activities\Movie\MovieList\obj\Debug\net8.0\ref\MovieList.dll
